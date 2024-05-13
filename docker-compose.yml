@@ -1,0 +1,11 @@
+version: "4"
+services:
+  fastapi:
+    build: .
+    container_name: fastapiapp
+    ports:
+      - "8008:8008"
+    volumes:
+      - .:/code
+    env_file:
+      - ./.env

@@ -1,0 +1,126 @@
+¿Qué servicios pueden ofrecerme?
+Los servicios que ofrecemos son los siguientes 4:
+    1. Expansión de Talento
+    2. Fábrica de software
+    3. Servicios en la Nube
+    4. Centro de entrenamiento
+
+¿Qué hacen en Expansión de Talento?
+    1. Reclutamiento de TI puro
+    2. Modelo C2H – Contratación por Proyecto (3,6,9,12 meses)
+    3. Modelo C2C - Contratación por Bolsa de Horas
+
+
+¿Qué Perfiles Manejan ?
+Cualquier Perfil de Ti en sus 3 niveles (Jr,Sr, Mid)
+
+¿Cuánto es el mínimo para una bolsa de horas?
+80 horas 
+
+¿Qué tiempos manejan por proyecto?
+3 meses, 6 meses, 9 meses, 12 meses
+
+Tiempos de respuesta del servicio expansion de talento
+2 a 3 semanas para colocar a un candidato 
+
+¿Cémo funciona su proceso de Reclutamiento Puro?
+Nos comparten el perfil de la posicion que estan buscando con sus datos y les compartimos una serie de candidatos para que puedan entrevistar y una ves seleccionado para contratar es cuando realizamos un contrato 
+
+¿Cómo funciona su bolsa de horas?
+Contratas una bolsa de horas de la teconologia y perfil que buscas en este caso la minima bolsa de horas es 80 y de acuerdo a las actividades y tareas solicitadas se va descontando
+
+¿Cómo funciona el reclutamiento por proyecto?
+Asignamos a un consultor directamente deacuerdo a las las caracteristicas del perfil que nos soliciten y damos un servicio completo, monitoreo de desempeño, garantias, desarrollo y remplazo
+
+¿Con cuántos consultores cuentas ?
+Tenemos una red de 2000 consultores por lo cual podemos proporcionar de manera rapida cualquier perfil de Ti
+
+¿Qué modalidad manejan para reclutamiento de perfiles?
+Presencial, Híbrida y Home Office
+
+¿Qué cursos tienen actualmente?
+Phyton, Java, React Js, Diseño UXUI, Power BI, entre otros, descarga nuestro catalogo para mas informacion 
+
+¿Cúal es su modalidad de entrega?
+Online con instructor en vivo 
+
+¿Cúales son sus costos?
+Para más información escribenos al 55 3463 7963
+
+¿Cúal es la duración de sus cursos?
+Cada especialidad tiene una duración de 3 meses a excepción de Diseño UXUI y Power BI, para más información escribenos al 55 3463 7963
+
+¿Qué niveles manejan?
+En todos nuestros cursos manejamos un nivel básico y avanzado 
+
+¿Entregan algún certificado?
+Si, al concluir tu capacitación te compartiremos un diploma con valor curricular 
+
+¿Cuáles son sus horarios?
+Contamos con horarios flexibles, nos adaptamos a tus necesidades. Para más información escribenos al 55 3463 7963
+
+Precios de los cursos 
+El precio varia dependiendo el curso, para mas informacion agenda una cita. Llena el formulario en la pagina www.nubelity.com/training-center
+
+¿Con que tecnologías trabajan?
+Phyton, Java, React Js, .Net, Apache Kafka, MySQL, Docker y Kubernetes, Linux, Android y muchas más...
+
+¿Qué ofrece específicamente la fábrica de software?
+Análisis de datos, creación de apps, creación y diseño UXUI, Backend y Frontend y desarrollo de APIS
+
+¿Cuál es su experiencia en el desarrollo de apps?
+Desarrollos diversa soliciones a la medida desde aplicativos, plataformar, apis, etc
+
+¿Facturan?
+Si, tardamos aproximadamente 30 días, pero nos ajustamos a sus tiempos internos 
+
+¿Tienen casos de exito en creación de apps?
+Si, contamos con varios casos de exito en generación de apps ya funcionando dentro de las empresa
+
+¿Que tipo de app pueden crear?
+Nativas, No Nativas, Android, IOS, web.
+
+¿Cual es el proceso de desarrollo?
+Manejamos una línea de tiempo, desde su idea inical, hasta el lanzamiento de la app
+
+¿Ofrecen mantenimiento después del lanzamiento?
+Si ofrecemos mantenimiento y podemos incluirlo en el alcance o fuera del proyecto 
+
+¿Cuentan con prototipos de muestra de alguna app que ustedes crearon?
+Si, contamos con algunos prototipos de muestra los cuales te podemos mostrar en una breve reunión via Teams
+
+¿Qué tipo de tecnología manejan?
+Nos adaptamos a la tecnología que tengas dentro de tu empresa o podemos hacerte sugerencias sobre cual podría ayudarte
+
+¿Dónde están sus oficinas?
+En México: Via Magna Manzana 046, Bosque de las Palmas, 52787 Naucalpan de Juárez, Méx. En USA: 7800 North Dallas Parkway, Suite 110, Plano, Texas, 75024.
+
+¿Cuántas personas trabajan en nubelity?
+100-150 personas
+
+¿Cuáles son sus valores?
+Confiabilidad, excelencia, confiabilidad, competitividad, liderazgo e inovacion
+
+¿Qué es Nubelity?
+Es una empresa de servicios de Tecnologia a la medida y transformacion digital.
+
+Historia de Nubelity 
+Somos una empresa Norte Americana fundada en el 2014 con presencia en Estados Unidos, México y Latam con experiencia, en proyectos locales y globales que nos permiten ofrecer soluciones de valor.
+
+¿Qué pueden hacer en visualizacion?
+Creacion de tableros, dashboard en Power Bi, tableau, Quick Sight
+
+¿Qué hacen en la nube?
+Evaluacion previa a migracion, adopcion de multiples nubes, arquitectura y servicios gestionados
+
+¿Con qué nubes trabajan?
+AWS, Azure y Google Cloud
+
+¿Qué base de datos utilizan?
+Azure SQL / Amazon Aurora / Oracle / Mongo DB
+
+¿Qué tipo de migraciones hacen?
+Fisica a virtual, virtual a virtual, entre nubes
+
+¿Realizan consultorias?
+Si claro, podemos agendar una reunion para entener mas a detalle tu necesidad.
