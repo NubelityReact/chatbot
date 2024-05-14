@@ -24,13 +24,13 @@ router = APIRouter()
 def responseQuery(Conversation: list[ConversationItem]): 
     try:
         conversation_messages = [HumanMessage(content=item.message, name=item.agent) if item.agent == "user" else AIMessage(name=item.agent, content=item.message)  for item in Conversation[:-1]]
-        messages = [SystemMessage(name="system",content="Tu nombre es Nuby. Una IA que ayuda a responder las dudas del usuario de manera clara, conscisa y corta. Tu respuesta debe ser suficientemente clara para evitar que el usuario llene algún formulario al menos que realmente sea necesaria mas información")] + conversation_messages 
+        messages = [SystemMessage(name="system",content="Tu nombre es Nuby. Una IA que ayuda a responder las dudas del usuario de manera clara y conscisa.")] + conversation_messages 
         dynamic_prompt = ChatPromptTemplate.from_messages(messages)
         conversation_messages = dynamic_prompt.messages
         conversation_text = ""
         for item in conversation_messages:
             conversation_text = conversation_text + f"role: {item.name}\n message: {item.content}\n\n"
-        # print(conversation_text)
+        print(conversation_text)
         template = """
             Esta es la conversación hasta ahora: {conversation_text}.
 
@@ -38,10 +38,11 @@ def responseQuery(Conversation: list[ConversationItem]):
             Con la siguiente información como contexto: {ctx}.
             No es necesario que te presentes en cada respuesta.
             Tu respuesta debe hablar por parte de Nubelity.
+            No repitas información previamente otorgada en la conversación hasta ahora, al menos que sea para recordarle al usuario con quién debería ponerse en contacto para ayuda personalizada.
             Nunca los invites directamente a visitar la siguiente homepage: www.nubelity.com
             
             Sólo si no es posible contestar a la pregunta con la información del contexto entonces 
-            invítalo a llenar algunos de los formularios disponibles en la página
+            invítalo a llenar algunos de los formularios disponibles en la página.
         """
             # Si el usuario está interesado en:
             # 1. expasión de talento pon un link a la siguiente página: www.nubelity.com/talent-expansion
@@ -51,7 +52,7 @@ def responseQuery(Conversation: list[ConversationItem]):
 
         prompt_template = ChatPromptTemplate.from_template(template)
 
-        with open("db2.txt") as db:
+        with open("db4.txt") as db:
             doc = db.read()
 
         # template_improve_context = """
@@ -63,7 +64,7 @@ def responseQuery(Conversation: list[ConversationItem]):
 
 
         
-        text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(model_name="gpt-4", chunk_size=80, chunk_overlap=10)
+        text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(model_name="gpt-4", chunk_size=55, chunk_overlap=4)
         splits = text_splitter.split_text(doc)
         embeddings_model = OpenAIEmbeddings(api_key=API_KEY)
         vector_store = Chroma.from_texts(texts=splits, embedding=embeddings_model)
