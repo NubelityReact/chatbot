@@ -25,7 +25,7 @@ router = APIRouter()
 def responseQuery(Conversation: list[ConversationItem]): 
     try:
         conversation_messages = [HumanMessage(content=item.message, name=item.agent) if item.agent == "user" else AIMessage(name=item.agent, content=item.message)  for item in Conversation[:-1]]
-        messages = [SystemMessage(name="system",content=system_template)] + conversation_messages 
+        messages = [SystemMessage(name="system",content=system_template())] + conversation_messages 
         dynamic_prompt = ChatPromptTemplate.from_messages(messages)
         conversation_messages = dynamic_prompt.messages
         conversation_text = ""

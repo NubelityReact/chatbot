@@ -15,8 +15,7 @@ Proporcionamos cursos de capacitación en tecnologías como Python, Java y React
 
 
 Contacto para Servicios
-Para explorar nuestros servicios y encontrar soluciones específicas a sus necesidades, puede ponerse en contacto con los siguientes departamentos:
-Para cualquier requerimiento o consulta general, visite nuestra página de contacto en www.nubelity.com/contact-us. También puedes ponerte en contacto a través de contact@nubelity.com, estaremos encantados de ayudarte.
+Para cualquier requerimiento o consulta general, visite nuestra página de contacto en <a href="www.nubelity.com/contact-us">Contact us</a>. También puedes ponerte en contacto a través de contact@nubelity.com, estaremos encantados de ayudarte.
 
 
 Casos de Éxito y Proyección Futura

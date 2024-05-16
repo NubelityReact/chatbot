@@ -1,35 +1,46 @@
-Análisis Profundo de Nubelity: Soluciones IT y Cloud
-Introducción
-Nubelity se ha posicionado como un líder indiscutible en soluciones IT y servicios en la nube, destacándose por su enfoque en la personalización y la excelencia en cada proyecto. Desde su fundación en 2014, la empresa ha ampliado su presencia a nivel global, operando en Estados Unidos, México y otros países de Latinoamérica.
+---
 
-Nuestros Servicios
-En Nubelity, ofrecemos una gama diversa de servicios diseñados para cubrir todas las necesidades tecnológicas de nuestros clientes:
+## Presentación de Servicios y Proyecciones de Nubelity
 
-1. Expansión de Talento
-Ofrecemos soluciones flexibles como el reclutamiento de TI, contratación por proyecto y bolsa de horas, adaptándonos a las necesidades específicas de cada cliente.
-2. Fábrica de Software
-Expertos en desarrollo personalizado, transformamos ideas en soluciones de negocio eficaces, empleando metodologías ágiles.
-3. Servicios Cloud
-Desde evaluaciones previas hasta la adopción y gestión de múltiples nubes, facilitamos la transformación digital con soluciones escalables y seguras.
-4. Centro de Capacitación
-Especializados en programas de capacitación intensivos y personalizados, preparamos a los profesionales para enfrentar los desafíos tecnológicos actuales.
-Nuestra Filosofía: Innovación y Personalización
-Compromiso con la Excelencia
-Nuestra clave para el éxito reside en nuestro compromiso con la excelencia y la personalización de servicios. Nos esforzamos por conocer a fondo las necesidades de nuestros clientes, lo que nos permite ofrecer soluciones precisas que promueven el crecimiento sostenible y la eficiencia operativa.
+### Resumen de Servicios de Nubelity
+Nubelity se destaca en el mercado tecnológico por ofrecer una amplia gama de servicios de TI y soluciones en la nube. Desde nuestra fundación en 2014, hemos ampliado nuestra presencia a nivel internacional, estableciendo oficinas en Estados Unidos, México y otros países de Latinoamérica. A continuación, se detallan nuestros principales servicios:
 
-Misión y Visión
-Nuestra misión es desarrollar soluciones tecnológicas avanzadas y ofrecer servicios de alta calidad que atiendan los desafíos y necesidades específicos de nuestros clientes. A través de nuestra visión de ser líderes en innovación tecnológica, buscamos transformar y potenciar negocios a nivel global.
+#### 1. Expansión de Talento
+- **Reclutamiento de TI puro:** Facilitamos una lista de candidatos preseleccionados basados en los requisitos específicos compartidos por nuestros clientes. Los tiempos de respuesta para colocar a un candidato son de 2 a 3 semanas.
+- **Modelo C2H – Contratación por Proyecto:** Ofrecemos contrataciones temporales con duraciones de 3, 6, 9 y 12 meses.
+- **Modelo C2C - Contratación por Bolsa de Horas:** Con una contratación mínima de 80 horas, este modelo permite flexibilidad en la asignación y consumo de recursos humanos según las necesidades del proyecto.
 
-Experiencias de Clientes y Casos de Éxito
-Más de 100 empresas han depositado su confianza en nosotros, lo que refleja nuestra capacidad para entregar resultados consistentes y de alta calidad. Nuestros casos de éxito incluyen colaboraciones con grandes nombres como DXC Technologies y JM Family, donde hemos proporcionado desde soluciones de expansión de talento hasta servicios avanzados de migración a la nube.
+#### 2. Fábrica de Software
+Nuestra oferta incluye:
+- Análisis de datos
+- Desarrollo de aplicaciones móviles y web
+- Diseño y desarrollo UX/UI
+- Creación y desarrollo de APIs
 
-Un Vistazo a Nuestro Futuro
-Proyectamos continuar nuestra expansión y mejorar constantemente nuestros servicios para adaptarnos a las rápidas evoluciones del mercado tecnológico. Con planes de abrir oficinas en Colombia y Argentina, estamos configurando una red robusta que soportará aún más la creciente demanda de soluciones tecnológicas innovadoras.
+Nos adaptamos a la tecnología existente del cliente o proporcionamos recomendaciones. Contamos con casos de éxito en la creación de apps nativas y no nativas para Android, iOS y web.
 
-Conclusión
-En Nubelity, estamos comprometidos a ser más que un proveedor de soluciones tecnológicas; aspiramos a ser socios estratégicos que contribuyan al éxito continuo de nuestros clientes. Con una base sólida y un claro enfoque en la innovación y la personalización, estamos preparados para enfrentar los desafíos del futuro y ayudar a nuestros clientes a alcanzar nuevas alturas en el mundo digital.
+#### 3. Servicios en la Nube
+Brindamos servicios de evaluación para la migración, adopción de múltiples nubes y arquitectura gestionada, trabajando con plataformas líderes como AWS, Azure y Google Cloud. También realizamos migraciones físicas a virtuales y entre nubes, utilizando bases de datos como Azure SQL, Amazon Aurora, Oracle y MongoDB.
 
-Con quién pedir ayudar:
-Si requires un servicio de fábrica de software o servicios de nube, favor de ponerte en contacto con m.sanchez@nubelity.com.
-Si requires un servicio de expansión de talento o centro de entrenamiento, favor de ponerte en contacto con d.ramirez@nubelity.com.
-También puedes contactarnos a través de nuestro formulario en la <a href="www.nubelity.com/contact-us">página de contáctanos</a>
+#### 4. Centro de Entrenamiento
+Proporcionamos cursos de capacitación en tecnologías como:
+- Python
+- Java
+- React JS
+- Diseño UX/UI
+- Power BI
+
+Todos nuestros cursos se imparten online con instructores en vivo y tienen una duración de 3 meses, excepto los cursos de Diseño UX/UI y Power BI. Manejamos niveles básico y avanzado, y al concluir la capacitación, entregamos un diploma con valor curricular.
+
+### Contacto para Servicios
+Para cualquier requerimiento o consulta general, visite nuestra página de contacto en [Contact us](www.nubelity.com/contact-us). También puedes ponerte en contacto a través de contact@nubelity.com, estaremos encantados de ayudarte.
+
+### Casos de Éxito y Proyección Futura
+Hemos colaborado con más de 100 empresas, logrando casos de éxito significativos con clientes renombrados como DXC Technologies y JM Family. Estas colaboraciones han reafirmado nuestra capacidad para ofrecer soluciones personalizadas y efectivas.
+
+Mirando hacia el futuro, Nubelity se enfoca en expandir aún más su alcance global y en continuar innovando en sus ofertas de servicio para mantenerse a la vanguardia de la tecnología. Nuestra visión es consolidarnos como líderes en la transformación digital y la innovación tecnológica, apoyando a nuestros clientes en cada paso de su evolución digital.
+
+### Conclusión
+En Nubelity, nos comprometemos a ofrecer no solo tecnología, sino soluciones estratégicas que potencian el crecimiento y el éxito continuo de nuestros clientes. Estamos listos para enfrentar los desafíos del futuro y ayudar a nuestros clientes a alcanzar nuevos niveles de eficiencia y competitividad en el ámbito digital.
+
+---
