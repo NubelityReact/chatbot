@@ -1,0 +1,201 @@
+# Estructura de la página web de Nubelity
+
+## Header
+- **Enlaces de navegación:** 
+  - Inicio
+  - Servicios
+  - Sobre Nosotros
+  - Blog
+- **Botón:** Contáctanos
+
+## Footer
+- **Título:** Por favor Contáctanos En
+- **Servicios:** 
+  - Título: Servicios
+- **Redes Sociales:**
+  - Título: Nuestras Redes
+  - Párrafo: Síguenos en todas nuestras cuentas
+- **Copyright:** 2024, Nubelity 3.0 (Desde 2014).
+- **Enlace a Política de Privacidad:** Política de Privacidad
+
+## Página de Inicio
+### HTML Title: Nubelity | Soluciones IT & Cloud
+
+### Hero
+- **Título principal:** Tu negocio está en las manos correctas.
+- **Párrafo:** Somos una empresa Norte Americana con presencia en Estados Unidos, México y Latam, con experiencia en proyectos locales y globales que nos permiten ofrecer soluciones IT personalizadas de valor.
+- **Botones:** 
+  - Principal: Contáctanos
+  - Secundario: Aprende más
+
+### Servicios
+- **Título:** Servicios
+- **Subtítulo:** Bienvenido a Nubelity
+- **Enlace:** Consulta nuestros servicios
+- **Párrafos:**
+  - Somos tu centro único para talentos y soluciones de TI.
+  - Algunas de las tecnologías en las que somos expertos.
+- **Tarjetas de servicios:**
+  1. **Expansión de Talento:** Reclutamiento de TI puro, Modelo C2H – Contratación por Proyecto (3,6,9,12 meses), Modelo C2C - Contratación por Bolsa de Horas, Soluciones a medida.
+  2. **Fábrica de Software:** Desarrollo a medida, brindando soluciones personalizadas adaptadas a las necesidades de nuestros clientes.
+  3. **Servicios Cloud:** Evaluación previa a la migración, adopción de múltiples nubes, arquitectura y servicios gestionados.
+  4. **Centro de Capacitación:** Creación, desarrollo y ejecución de programas de capacitación personalizados para nuestros clientes y usuarios.
+
+### Inteligencia Artificial
+- **Título:** Nuestro Dominio de IA Responsable y Confiable
+- **Subtítulo:** Especialistas de IA
+- **Párrafo:** Con nuestra analítica de datos a través de machine learning, estamos aprovechando el potencial ilimitado de la IA para transformar las industrias, desde revolucionar la creación de contenidos hasta automatizar procesos complejos y facilitar la toma de decisiones.
+- **Botón:** Conoce más
+
+### Clientes
+- **Título:** +100 empresas confían en nosotros
+
+### Nuestra Clave
+- **Título:** ¿Nuestra clave? Llegar a conocerte.
+- **Subtítulo:** Misión y Visión
+- **Párrafo:** Tomarse este tiempo para evaluar minuciosamente sus recursos y objetivos también nos permite brindar un excelente servicio al cliente y sentar las bases para una alianza a largo plazo que agrega valor constantemente a su negocio.
+
+### Socios
+- **Título:** Nuestros Socios
+
+## Página de Servicios
+### Header
+- **Título:** Nuestra tecnología y servicios de IA responsables y confiables
+- **Párrafo:** Nos centramos en diseñar, desarrollar e implementar IA con buena intención para empoderar a los empleados y las empresas, e impactar de manera justa a los clientes y a la sociedad respetando todas las leyes y regulaciones aplicables. Actuamos con principios y valores éticos.
+
+### Centro de Capacitación
+- **HTML Title:** Nubelity | Centro de Capacitación
+- **Subtítulo:** Entrenamiento
+- **Párrafos:**
+  1. Nos especializamos en la creación, desarrollo y ejecución de programas de capacitación personalizados para nuestros clientes.
+  2. Nuestro objetivo es potenciar las habilidades de tus colaboradores en las últimas tecnologías.
+- **Lista de Capacitación:**
+  - + de 500 graduados
+  - Instructores certificados con más de 35 años de experiencia
+  - Niveles altos de satisfacción de nuestros clientes
+  - + de 100 cursos de TI exclusivos y a la medida de nuestros clientes
+  - Capacitaciones 100% en vivo
+  - Horarios flexibles
+  - Seguimiento y compromiso sólido con los instructores
+- **Título:** Centro de Entrenamiento
+- **Botón:** Inscríbete Ya
+
+### Introducción al Centro de Capacitación
+- **Título:** Centro de Capacitación
+- **Párrafos:**
+  1. Hemos diseñado cuidadosamente un plan de estudios especializado dirigido a aquellos que buscan un cambio de carrera, acelerando, refinando y mejorando habilidades de desarrollo.
+  2. Los cursos son ideales para consolidar conocimientos y acceder a un nuevo nivel de experticia. Serás desafiado constantemente con Teoría, Práctica y Proyectos que te permitirán practicar sobre un escenario real aplicando las mejores prácticas de la industria real de USA.
+- **Botón:** Inscríbete Ahora
+
+### Testimonios
+- **Título:** Algunos testimonios
+- **Testimonios:**
+  1. **Eduardo Rivera:** Curso de Java Intermedio. Mi experiencia dentro del curso de Java intermedio me permitió afianzar conocimientos básicos sobre Java y desarrollar mi interés por conocer más en el curso avanzado. Es una experiencia basada en la sencillez para la transmisión de conocimientos, ideal para quienes estamos iniciando.
+  2. **David Blancas:** Curso de Java Avanzado. El curso de Java Avanzado con Spring Boot ha sido increíblemente enriquecedor. La estructura del curso y la experiencia del instructor me ayudaron a comprender conceptos fundamentales y avanzados. La práctica constante garantizó la aplicación efectiva de los conocimientos adquiridos. El excelente soporte ofrecido demuestra el compromiso del curso con la excelencia educativa. Altamente recomendado.
+  3. **Abigail Albino:** Curso de Diseño UI/UX. Participar en el curso de Diseño UX/UI ha sido gratificante y enriquecedor, ampliando nuestros conocimientos y habilidades. El instructor, con su amplia experiencia, guía efectivamente cada sesión, combinando teoría con actividades y ejercicios prácticos que permiten aplicar los conocimientos de inmediato.
+  4. **Alejandro Mayoral:** Curso de Fundamentos Python. El curso de fundamentos de python es muy completo, cubriendo varios temas importantes como paradigmas de programación, uso de decoradores, algoritmos y conexiones a bases de datos de manera práctica. Muy recomendable.
+
+### Temarios Destacados
+- **Tabs:** Top Cursos Destacados
+- **Cursos:**
+  1. **Programa de React:**
+     - **Detalles del programa de React:**
+       - **Nivel Medio:** Al final del curso, podrás crear y entregar tu propio proyecto de comercio electrónico utilizando redux y configurando componentes con estilo desde cero.
+       - **Nivel Avanzado:** Al final del curso, podrás crear un sitio de comercio electrónico productivo y profesional utilizando contenedores Docker en Front-End y aplicando Mongoose, Express y TypeScript en el Back-End.
+     - **Temario de React (Nivel Avanzado):**
+       - HTML, SASS, Typescript, ReactTS, Bases de Datos
+       - **Botón:** Inscribirse
+     - **Temario de React (Nivel Medio):**
+       - HTML, CSS, Javascript, Herramientas de Desarrollo, ReactJS
+       - **Botón:** Inscribirse
+  2. **Programa de Python:**
+     - **Detalles del programa de Python:**
+       - **Nivel Medio:** Al final del curso, serás capaz de usar OOP, estructuras de datos y algoritmos de manera competente.
+       - **Nivel Avanzado:** Al final del curso, serás capaz de construir un back-end productivo profesional y microservicios usando contenedores Docker.
+     - **Temario de Python (Nivel Medio):**
+       - Estructuras Integradas de Python, Funciones de Python, Objetos de Python, Programación Orientada a Objetos, Estructuras de Datos & Algoritmos, Dataclasses y NamedTuples
+       - **Botón:** Inscribirse
+     - **Temario de Python (Nivel Avanzado):**
+       - Bases de Datos, Threading, Formateo y Validación de Datos, Procesos Impulsados por Eventos, Marco de Trabajo Web FastAPI, Marco de Trabajo Web Django
+       - **Botón:** Inscribirse
+  3. **Programa de Java:**
+     - **Detalles del programa de Java:**
+       - **Nivel Medio:** Al final del curso, serás capaz de construir un proyecto desde la correcta identificación de requerimientos del usuario hasta su implementación.
+       - **Nivel Avanzado:** Al final del curso, serás capaz de construir un sitio web de desarrollo productivo profesional, siguiendo las mejores prácticas de la industria de EE. UU.
+     - **Temario de Java (Nivel Medio):**
+       - Conceptos básicos de JAVA OOPS, Hilos, Streams & Manejo de Archivos, Manejo de Excepciones, Colecciones, Marco de Trabajo SPRING, Servicios Web
+       - **Botón:** Inscribirse
+     - **Temario de Java (Nivel Avanzado):**
+       - APIs RESTful, Conectividad de Base de Datos Java, Acceso a Datos - Plantilla JDBC, JPA, Hibernate & Spring Data, Seguridad Spring, OAuth 2.0, SpringBoot, Servicio Web RESTful con Spring y Spring Boot
+       - **Botón:** Inscribirse
+  4. **Programa de Android:**
+     - **Detalles del programa de Android:**
+       - **Nivel Medio:** Al final del curso, serás capaz de crear una estructura de código competente que cumpla con los estándares de la industria de USA.
+       - **Nivel Avanzado:** Al final del curso, serás capaz de construir un sitio de e-commerce productivo profesional, optimizando todo el proyecto y habilitando funciones avanzadas para mejorar el rendimiento de la aplicación.
+     - **Temario de Android (Nivel Medio):**
+       - Fundamentos, Manejo de Excepciones, Estructura de Aplicación, Vista Básica, Modelo de Layout & Media, Fundamentos de Kotlin, Multi Threading, Base de Datos SQL
+       - **Botón:** Inscribirse
+     - **Temario de Android (Nivel Avanzado):**
+       - Fundamentos de Kotlin, Redes, Persistencia de Datos, Mapas & Ubicación, Eficiencia de Hilos, Batería & CPU, Rendimiento, Kotlin Avanzado
+       - **Botón:** Inscribirse
+
+## Página de Sobre Nosotros
+### HTML Title: Nubelity | Sobre Nosotros
+
+### Hero
+- **Título:** Nuestro propósito
+- **Párrafo:** Desarrollar soluciones tecnológicas y ofrecer servicios de alta calidad que resuelvan los diferentes desafíos y necesidades de nuestros clientes.
+- **Botones:** 
+  - Principal: Contáctanos
+  - Secundario: Aprende Más
+
+### Tabs
+- **Valores Centrales:**
+  - Integridad: Trabajar con integridad significa actuar moralmente correcto y con excelencia en apoyo a tus necesidades.
+  - Excelencia: Más de 25 años de experiencia entregando cada proyecto con los más altos estándares de la industria.
+  - Fiabilidad: Comprometidos a estar ahí cuando nos necesites.
+  - Competitividad: Mejoramos e innovamos constantemente para mantenernos por delante de la competencia.
+  - Liderazgo: Motivados para impulsar el crecimiento y fomentar la colaboración.
+  - Innovación: Promovemos una cultura de curiosidad y experimentación para aumentar el compromiso de los empleados.
+
+- **Nuestras Oficinas:**
+  - Oficinas en Estados Unidos
+  - MÉXICO – Centro de Entrega Nearshore
+  - Próximamente: Colombia, Argentina
+
+### Casos de Éxito
+- **Introducción:**
+  - **Título:** Algunos de nuestros casos de éxito
+  - **Subtítulo:** Ofreciendo resultados reales para las mejores empresas
+- **Clientes:**
+  - **DXC Technologies:**
+    - **Objetivo:** Proporcionar soluciones de Expansión de Talento TI (Dotación de Personal como Servicio) al equipo de Ingeniería, para clientes estratégicos en diferentes industrias.
+    - **Solución:** Servicios de migración a la nube AWS, Talentos TI, .NET, DevOps y Cloud.
+  - **JM Family:**
+    - **Objetivo:** Servicios de Migración a la Nube para la adopción de Transformación Digital e implementación de políticas de Ciberseguridad Financiera en sistemas en la nube.
+    - **Solución:** Instalación y mantenimiento de aplicaciones, sistemas e infraestructura en la nube, gestión de seguridad de red y automatización con Terraform y Jenkins.
+  - **FIFCO:**
+    - **Objetivo:** Reducir los riesgos de los servidores de bases de datos y la gestión de directorios activos, centrando los recursos internos en problemas operativos del negocio.
+    - **Solución:** Migración de servidores a la Nube, Servicios Administrados Active Directory, Office 365 y Base de Datos, Servicios de Soporte N1, N2 especializados.
+  - **Ohio National Services:**
+    - **Objetivo:** Tener una solución de recuperación ante desastres para la continuidad del negocio.
+    - **Solución:** Solución de Recuperación ante Desastres con CloudEndure en AWS, servicios adicionales de arquitectura, instalación y soporte.
+
+## Página de Contáctanos
+### HTML Title: Nubelity | Contáctanos
+
+### Introducción
+- **Título:** Contáctenos
+- **Párrafos:**
+  1. Explíquenos sus necesidades y requisitos.
+  2. ¡El equipo de NUBELITY se pondrá en contacto con usted pronto!
+
+## Página de Inscríbete Ahora
+### HTML Title: Nubelity | Inscríbete ahora
+
+### Proceso de Inscripción
+- **Título:** Proceso de Inscripción
+- **Párrafos:**
+  1. ¿Estás listo para EMPODERAR Y REINVENTAR TU CARRERA?
+  2. Díganos su dominio tecnológico preferido.
+  3. ¡El equipo de NUBELITY se comunicará contigo pronto!

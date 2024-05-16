@@ -1,0 +1,71 @@
+---
+
+## Presentación de Servicios y Proyecciones de Nubelity
+
+### Resumen de Servicios de Nubelity
+Nubelity se destaca en el mercado tecnológico por ofrecer una amplia gama de servicios de TI y soluciones en la nube. Desde nuestra fundación en 2014, hemos ampliado nuestra presencia a nivel internacional, estableciendo oficinas en Estados Unidos, México y otros países de Latinoamérica. A continuación, se detallan nuestros principales servicios:
+
+#### 1. Expansión de Talento
+- **Reclutamiento de TI puro:** Facilitamos una lista de candidatos preseleccionados basados en los requisitos específicos compartidos por nuestros clientes. Los tiempos de respuesta para colocar a un candidato son de 2 a 3 semanas.
+- **Modelo C2H – Contratación por Proyecto:** Ofrecemos contrataciones temporales con duraciones de 3, 6, 9 y 12 meses.
+- **Modelo C2C - Contratación por Bolsa de Horas:** Con una contratación mínima de 80 horas, este modelo permite flexibilidad en la asignación y consumo de recursos humanos según las necesidades del proyecto.
+
+#### 2. Fábrica de Software
+Nuestra oferta incluye:
+- Análisis de datos
+- Desarrollo de aplicaciones móviles y web
+- Diseño y desarrollo UX/UI
+- Creación y desarrollo de APIs
+
+Nos adaptamos a la tecnología existente del cliente o proporcionamos recomendaciones. Contamos con casos de éxito en la creación de apps nativas y no nativas para Android, iOS y web.
+
+#### 3. Servicios en la Nube
+Brindamos servicios de evaluación para la migración, adopción de múltiples nubes y arquitectura gestionada, trabajando con plataformas líderes como AWS, Azure y Google Cloud. También realizamos migraciones físicas a virtuales y entre nubes, utilizando bases de datos como Azure SQL, Amazon Aurora, Oracle y MongoDB.
+
+#### 4. Centro de Entrenamiento
+Proporcionamos cursos de capacitación en tecnologías como:
+- Python
+- Java
+- React JS
+- Diseño UX/UI
+- Power BI
+
+Todos nuestros cursos se imparten online con instructores en vivo y tienen una duración de 3 meses, excepto los cursos de Diseño UX/UI y Power BI. Manejamos niveles básico y avanzado, y al concluir la capacitación, entregamos un diploma con valor curricular. Hemos formado a más de 500 graduados con instructores certificados que tienen más de 35 años de experiencia, ofreciendo horarios flexibles y un sólido compromiso de seguimiento y soporte.
+
+### Casos de Éxito y Proyección Futura
+Hemos colaborado con más de 100 empresas, logrando casos de éxito significativos con clientes renombrados como DXC Technologies y JM Family. Estas colaboraciones han reafirmado nuestra capacidad para ofrecer soluciones personalizadas y efectivas.
+
+#### Casos de Éxito:
+1. **DXC Technologies:**
+   - **Objetivo:** Proporcionar soluciones de Expansión de Talento TI (Dotación de Personal como Servicio) al equipo de Ingeniería, para clientes estratégicos en diferentes industrias.
+   - **Solución:** Servicios de migración a la nube AWS, Talentos TI, .NET, DevOps y Cloud.
+
+2. **JM Family:**
+   - **Objetivo:** Servicios de Migración a la Nube para la adopción de Transformación Digital e implementación de políticas de Ciberseguridad Financiera en sistemas en la nube.
+   - **Solución:** Instalación y mantenimiento de aplicaciones, sistemas e infraestructura en la nube, gestión de seguridad de red y automatización con Terraform y Jenkins.
+
+3. **FIFCO:**
+   - **Objetivo:** Reducir los riesgos de los servidores de bases de datos y la gestión de directorios activos, centrando los recursos internos en problemas operativos del negocio.
+   - **Solución:** Migración de servidores a la Nube, Servicios Administrados Active Directory, Office 365 y Base de Datos, Servicios de Soporte N1, N2 especializados.
+
+4. **Ohio National Services:**
+   - **Objetivo:** Tener una solución de recuperación ante desastres para la continuidad del negocio.
+   - **Solución:** Solución de Recuperación ante Desastres con CloudEndure en AWS, servicios adicionales de arquitectura, instalación y soporte.
+
+#### Proyección Futura:
+Mirando hacia el futuro, Nubelity se enfoca en expandir aún más su alcance global y en continuar innovando en sus ofertas de servicio para mantenerse a la vanguardia de la tecnología. Nuestra visión es consolidarnos como líderes en la transformación digital y la innovación tecnológica, apoyando a nuestros clientes en cada paso de su evolución digital.
+
+### Testimonios
+Hemos recibido numerosos testimonios positivos de nuestros alumnos que avalan la calidad de nuestros cursos y programas de capacitación:
+
+1. **Eduardo Rivera:** "Mi experiencia dentro del curso de Java intermedio me permitió afianzar conocimientos básicos sobre Java y desarrollar mi interés por conocer más en el curso avanzado. Es una experiencia basada en la sencillez para la transmisión de conocimientos, ideal para quienes estamos iniciando."
+2. **David Blancas:** "El curso de Java Avanzado con Spring Boot ha sido increíblemente enriquecedor. La estructura del curso y la experiencia del instructor me ayudaron a comprender conceptos fundamentales y avanzados. La práctica constante garantizó la aplicación efectiva de los conocimientos adquiridos. El excelente soporte ofrecido demuestra el compromiso del curso con la excelencia educativa. Altamente recomendado."
+3. **Abigail Albino:** "Participar en el curso de Diseño UX/UI ha sido gratificante y enriquecedor, ampliando nuestros conocimientos y habilidades. El instructor, con su amplia experiencia, guía efectivamente cada sesión, combinando teoría con actividades y ejercicios prácticos que permiten aplicar los conocimientos de inmediato."
+4. **Alejandro Mayoral:** "El curso de fundamentos de python es muy completo, cubriendo varios temas importantes como paradigmas de programación, uso de decoradores, algoritmos y conexiones a bases de datos de manera práctica. Muy recomendable."
+
+### Conclusión
+En Nubelity, nos comprometemos a ofrecer no solo tecnología, sino soluciones estratégicas que potencian el crecimiento y el éxito continuo de nuestros clientes. Estamos listos para enfrentar los desafíos del futuro y ayudar a nuestros clientes a alcanzar nuevos niveles de eficiencia y competitividad en el ámbito digital.
+
+Para cualquier requerimiento o consulta general, visite nuestra página de contacto en [Contact us](www.nubelity.com/contact-us). También puedes ponerte en contacto a través de contact@nubelity.com, estaremos encantados de ayudarte.
+
+---

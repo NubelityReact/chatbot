@@ -44,7 +44,7 @@ def responseQuery(Conversation: list[ConversationItem]):
         # vector_store = Chroma.from_texts(texts=splits, embedding=embeddings_model)
         # retriever = vector_store.as_retriever()
 
-        llm = ChatOpenAI(api_key=API_KEY)
+        llm = ChatOpenAI(api_key=API_KEY, model="gpt-4o")
         output_parser = StrOutputParser()
         user_question = Conversation[-1].message
         
