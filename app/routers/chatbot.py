@@ -1,6 +1,6 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException, BackgroundTasks
 from fastapi.responses import JSONResponse
-from pydantic import BaseModel
+from pydantic import BaseModel, EmailStr
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.messages import SystemMessage, AIMessage, HumanMessage
 from langchain_core.output_parsers import StrOutputParser   
@@ -11,6 +11,10 @@ from langchain_chroma import Chroma
 import os
 from typing import Literal
 from .templates import rag_template, system_template
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+import os
 
 
 class ConversationItem(BaseModel):
@@ -74,3 +78,54 @@ def readDB():
     converstion_text = dynamic_prompt.messages
     print(converstion_text)
     print([(item.name, item.content) for item in converstion_text])
+
+
+# Email request model
+class EmailRequest(BaseModel):
+    recipient: EmailStr
+    subject: str
+    message: str
+
+
+# Utility function to send email
+def send_email(recipient: str, subject: str, message: str):
+    try:
+        smtp_server = os.getenv("SMTP_SERVER", "smtp.gmail.com")
+        smtp_port = os.getenv("SMTP_PORT", 587)
+        smtp_user = os.getenv("SMTP_USER")
+        smtp_password = os.getenv("SMTP_PASSWORD")
+        print(smtp_server, smtp_user, smtp_password)
+        
+        if not smtp_user or not smtp_password:
+            raise ValueError("SMTP credentials are not set in the environment variables.")
+
+        # Create email
+        email = MIMEMultipart()
+        email["From"] = smtp_user
+        email["To"] = recipient
+        email["Subject"] = subject
+        email.attach(MIMEText(message, "plain"))
+
+        # Connect to the server and send email
+        with smtplib.SMTP(smtp_server, smtp_port) as server:
+            server.starttls()
+            server.login(smtp_user, smtp_password)
+            server.sendmail(smtp_user, recipient, email.as_string())
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error sending email: {str(e)}")
+
+
+# Endpoint to send email
+@router.post("/send-email/")
+def send_email_endpoint(email_request: EmailRequest, background_tasks: BackgroundTasks):
+    """
+    Send an email to the specified recipient.
+    """
+    background_tasks.add_task(
+        send_email,
+        recipient=email_request.recipient,
+        subject=email_request.subject,
+        message=email_request.message,
+    )
+    return {"message": "Email has been sent successfully."}
